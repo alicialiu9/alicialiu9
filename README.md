@@ -5,7 +5,7 @@ Hi! My name is Alicia Liu, and I am a second-year undergraduate student majoring
 
 ## Contact
 Email: alicia.liu04@gmail.com <br/> 
-LinkedIn: (https://www.linkedin.com/in/alicia-liuu/)
+LinkedIn: https://www.linkedin.com/in/alicia-liuu/
 
 <!--
 **alicialiu9/alicialiu9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
