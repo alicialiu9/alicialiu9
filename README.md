@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋
+
+## About me
+Hi! My name is Alicia Liu, and I am a second-year undergraduate student majoring in Linguistics & Computer Science at UCLA. I’m from Southern California and grew up bilingual, speaking Mandarin and English. My current interests are software development and computational linguistics. In my free time, I enjoy dancing, singing, and watching dramas.
+
+## Contact
+Email: alicia.liu04@gmail.com
+[LinkedIn] (https://www.linkedin.com/in/alicia-liuu/)
 
 <!--
 **alicialiu9/alicialiu9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
