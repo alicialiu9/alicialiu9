@@ -1,14 +1,14 @@
 ### Hi 👋
 
 ## About me 👩‍💻
-Hi! My name is Alicia Liu, and I am a third-year undergraduate student majoring in Linguistics & Computer Science at UCLA. I’m passionate about the intersection of technology and language, with interests in software development and computational linguistics.
+Hi! My name is **Alicia Liu**, and I am a third-year undergraduate student majoring in **Linguistics & Computer Science** at UCLA. I’m passionate about the intersection of technology and language, with interests in **software development** and **computational linguistics**.
 
-I grew up in Southern California, bilingual in Mandarin and English, which inspired my curiosity about language processing and human-computer interaction. When I’m not coding, you can find me:
+I grew up in Southern California, bilingual in **Mandarin** and English, which inspired my curiosity about language processing and human-computer interaction. When I’m not coding, you can find me:
 
-- **💃 Dancing**
-- **🎤 Singing**
-- **📺 Watching dramas**
-- **🧑‍🍳 Cooking** 
+- 💃 Dancing
+- 🎤 Singing
+- 📺 Watching dramas
+- 🧑‍🍳 Cooking
 
 I’m always eager to learn new skills, tackle challenging projects, and collaborate with others to create meaningful tech solutions.
 
