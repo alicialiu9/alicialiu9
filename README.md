@@ -12,12 +12,12 @@ I grew up in Southern California, bilingual in **Mandarin** and English, which i
 
 I’m always eager to learn new skills, tackle challenging projects, and collaborate with others to create meaningful tech solutions.
 
-## Contact Me 📬
+## Contact Me! 📬
 📧 Email: alicia.liu04@gmail.com <br/> 
 💼 LinkedIn: https://www.linkedin.com/in/alicia-liuu/
 
 
-## 💻 Tech Stack
+## Tech Stack 💻 
 
 - **Languages**: Python, C++, Haskell, JavaScript, HTML/CSS, Lisp
 - **Tools**: Git, Linux/Unix, Emacs
