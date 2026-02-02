@@ -1,7 +1,7 @@
 ### Hi 👋
 
 ## About me 👩‍💻
-Hi! My name is **Alicia Liu**, and I am a rising fourth-year undergraduate student majoring in **Linguistics & Computer Science** with a minor in Asian Languages (Chinese) at UCLA. I’m passionate about the intersection of technology and language, with interests in **software development** and **computational linguistics**.
+Hi! My name is **Alicia Liu**, and I am a fourth-year undergraduate student majoring in **Linguistics & Computer Science** with a minor in Asian Languages (Chinese) at UCLA. I’m passionate about the intersection of technology and language, with interests in **software development** and **computational linguistics**.
 
 I grew up in Southern California, bilingual in **Mandarin** and English, which inspired my curiosity about language processing and human-computer interaction. When I’m not coding, you can find me:
 
